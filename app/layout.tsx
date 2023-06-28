@@ -4,7 +4,7 @@ import Footer from '@/components/footer'
 
 
 export const metadata = {
-  title: 'Car Hub',
+  title: 'WheelsWonder',
   description: 'Discover the best cars in the world',
 }
 
