@@ -38,6 +38,11 @@ export interface FilterProps {
     fuel?: string;
   }
 
+  export interface HomeProps {
+    searchParams: FilterProps;
+  }
+  
+
 export interface OptionProps{
     title: string,
     value: string
